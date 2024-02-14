@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Phil Dietrich
     tagline: Functional Safety Engineer
-    avatar: Picture1.jpg #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Picture2.jpg #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: phil.dietrich@yahoo.com
