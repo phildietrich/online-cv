@@ -192,13 +192,16 @@ certifications:
           end: 2024
           organization: TUV NORD
           credentialid: A031_01902/21
-          credentialurl: https://www.tuev-nord.de/fileadmin/Content/TUEV_NORD_DE/funktionale_sicherheit/personenzertifikate/ISO_26262/FSCAE_Dietrich_A031_01902_21.pdf
+          credentialurl: www.tuev-nord.de/fileadmin/Content/TUEV_NORD_DE/funktionale_sicherheit/personenzertifikate/ISO_26262/FSCAE_Dietrich_A031_01902_21.pdf
           credentialname: FSCAE
           details: |
             TUV Certified Functional Safety Engineer for Automotive ISO 26262. 
-                - Module 1 - Management of ISO 26262
-                - Module 2 - Hardware Level Implementation of ISO 26262 
-                - Module 3 - Software Level Implementation of ISO 26262
+             - Module 1 - Management of ISO 26262
+             
+             - Module 2 - Hardware Level Implementation of ISO 26262 
+             
+             - Module 3 - Software Level Implementation of ISO 26262
+             
         - name: Git learning
           start: 2019
           end:
