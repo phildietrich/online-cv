@@ -94,15 +94,14 @@ experiences:
         time: 2020 - Present
         company: FNG, Detroit
         details: |
-          Drive engineering activities according to safety standards (ISO26262 & SOTIF) during all project phases, e.g.
-            - pre-sales / quote 
-            - concept phase 
-            - product development at system level 
-                - hardware (HW) level 
-                - software (SW) level 
-                - verifivcation & validation (V&V) 
-            - production & decomission 
-          | 
+          Drive engineering activities according to safety standards (ISO 26262 & SOTIF) during all project phases, e.g.
+            - Pre-sales / quote phase 
+            - Concept phase 
+            - product development at System level 
+            - product development at Hardware (HW) level 
+            - product development at Software (SW) level 
+            - Verification & Validation (V&V) 
+            - Production & Decomission 
           
           Guide Functional Safety engineering activities for multiple product development teams across a range of technologies
           
@@ -111,7 +110,7 @@ experiences:
           Proven track record of competency to plan, conduct & document internal & external assessments for ISO26262 +ASPICE Lvl.3
           
           Establish Bi-directional traceability on FNGs configuration management tool i.e. Polarion ALM & ANSYS Medini Analyze
-          Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports 
+           
           | 
           
           Develop functional safety work products specific for System, HW & SW development, e.g.
@@ -120,6 +119,7 @@ experiences:
             - HW safety metrics (ex. FMEDA),
             - technical safety concept (TSC), 
             - Fault Tree Analysis (FTA),
+        Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports
       - role: Adjunct Physics Professor
         time: 2020 - 2023
         company: Oakland Community College, Michigan
@@ -145,13 +145,18 @@ experiences:
         company: FNG, Detroit
         details: |
           Mechanical Design Engineer and Project Lead over all engineering functions related to new model headlight programs
+          
           Innovate & design 3D CAD models, 2D component drawings, maintain & develop BOMs & manage multi-million dollar tooling
           budgets for all headlamp components including: 
             - Adaptive Driving Beam (ADB) Matrix LED projectors; 
             - Advanced Front Lighting Systems w/ dynamic LIN stepper motors; 
             - LIDAR sensor integration for autonomous (ADAS) vehicles (presented at CES 2020)
-          Collaborated, engaged, and led team of five engineers (thermal, optical, E/E hardware, E/E software, & manufacturing)
-          throughout multi-year product lifecycle. Filed 1 new mechanical engineering design patent for Flex-N-Gate
+        
+            Collaborated, engaged, and led team of five engineers (thermal, optical, E/E hardware, E/E software, & manufacturing)
+          throughout multi-year product lifecycle. 
+          
+          Filed 1 new mechanical engineering design patent for Flex-N-Gate
+          
           Successfully designed, validated, & launched the bestselling vehicle headlamps in the USA, w/ nearly 1 million Ford F-150
           trucks sold in 2018 (~2M headlamps), resulting in more than $120 Million in annual revenue for the company 
       - role: Sr. Validation Engineer 
@@ -159,45 +164,45 @@ experiences:
         company: Automotive Lighting (Marelli), Detroit
         details: |
           Performed Optical, Thermal, Mechanical & Electrical tests on all exterior lighting products & created test reports 
+          
           Created technical reports, formulated design concepts & proposals from test results, made presentations describing the
           finite element models & CAE data to the design team to help resolve compliance issues & investigate cost saves
+          
           Investigated failure mode root causes using ECU diagnostics / 5WHY methodology. Reported findings to team in timely
-          manner via 8D templates. Performed DOE / Critical X / fault injection tests to incorporate robust corrective actions.
+          manner via 8D templates. 
+          
+          Performed DOE / Critical X / fault injection tests to incorporate robust corrective actions.
+          
           Specialized in electrical component validation techniques & methods for compliance (ex. GMW3172 environmental testing)
+          
           Championed the Quality Risk Checks (QRC) for each project & ECU module.
+          
       - role: Subject Matter Expert - Physics & Mathematics  
         time: 2010 
         company: Raytheon, Detroit
         details: |
-          o Worked with Six-Sigma Defense Company to create physics and mathematics web-based military training courses
-          o Applied knowledge of these subjects throughout various milestones with SW developers of diversified backgrounds 
-          o Approve training course module based on accuracy and internal quality standards. Provided feedback to team leaders for 
+          Consulted for Six-Sigma Defense Company that was creating physics and mathematics web-based military training courses
+          
+          Applied knowledge of these subjects throughout various milestones with SW developers of diversified backgrounds 
+          
+          Approve training course module based on accuracy and internal quality standards. Provided feedback to team leaders for 
           any corrections needed, including recommended “areas of improvement” during peer reviews & formal SME Reports 
          
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Functional Safety Certified Automotive Engineer (FSCAE)
           start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          end: 2024
+          organization: TUV NORD
+          credentialid: A031_01902/21
+          credentialurl: https://www.tuev-nord.de/fileadmin/Content/TUEV_NORD_DE/funktionale_sicherheit/personenzertifikate/ISO_26262/FSCAE_Dietrich_A031_01902_21.pdf
+          credentialname: FSCAE
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            TUV Certified Functional Safety Engineer for Automotive ISO 26262. 
+                - Module 1 - Management of ISO 26262
+                - Module 2 - Hardware Level Implementation of ISO 26262 
+                - Module 3 - Software Level Implementation of ISO 26262
         - name: Git learning
           start: 2019
           end:
