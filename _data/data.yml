@@ -15,16 +15,16 @@ sidebar:
     # Sidebar links
     email: phild22123@gmail.com
     phone: 248 660 0086
-    timezone: America/ Eastern Standard Time (EST) zone
+    timezone: America/ Eastern Time (EST) 
     citizenship:
     website: https://phildietrich.github.io #do not add http://
-    linkedin: x
-    xing: x 
+    #linkedin: x
+    #xing: x 
     github: phildietrich
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@nasa'
+    #twitter: '@nasa'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,11 +36,11 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: Chinese - Mandarin
-          level: Beginner
-
         - idiom: Spanish
           level: Professional
+
+        - idiom: Chinese - Mandarin
+          level: Beginner
 
     interests:
       title: Interests
@@ -57,7 +57,6 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here 
       Functional Safety Certified Automotive Engineer (FSCAE) w/ 13 years of experience in the design, 
       validation & manufacture of safety critical automotive exterior lighting systems, their LED modules 
       & Electronic Control Units (ECU). Extensive knowledge of PCBA level tests & model-based development 
@@ -151,7 +150,7 @@ experiences:
           o Worked with Six-Sigma Defense Company to create physics and mathematics web-based military training courses
           o Applied knowledge of these subjects throughout various milestones with SW developers of diversified backgrounds 
           o Approve training course module based on accuracy and internal quality standards. Provided feedback to team leaders for 
-          any corrections needed, including recommended “areas of improvement” during peer reviews & formal SME ReportsMechanical Design Engineer and Project Lead over all engineering functions related to new model headlight programs
+          any corrections needed, including recommended “areas of improvement” during peer reviews & formal SME Reports 
          
 certifications:
       title: Certifications
@@ -266,23 +265,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 74%
 
       - name: Angular
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
 
       - name: Ruby on Rails
         level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
