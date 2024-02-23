@@ -111,13 +111,14 @@ experiences:
           
           Establish Bi-directional traceability on FNGs configuration management tool i.e. Polarion ALM & ANSYS Medini Analyze
           
+          Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports
+
           Develop functional safety work products specific for System, HW & SW development, e.g.
             - hazard & risk assessment (HARA), 
             - dependent failure analyses (DFA), 
             - HW safety metrics (ex. FMEDA),
             - technical safety concept (TSC), 
-            - Fault Tree Analysis (FTA),
-        Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports
+            - Fault Tree Analysis (FTA)
       - role: Adjunct Physics Professor
         time: 2020 - 2023
         company: Oakland Community College, Michigan
