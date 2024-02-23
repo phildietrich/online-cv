@@ -94,11 +94,20 @@ experiences:
         time: 2020 - Present
         company: FNG, Detroit
         details: |
-          Drive engineering activities according to safety standards (ISO26262 & SOTIF) during all project phases (pre-sales / quote 
-          phase; concept phase; product development at system, hardware & software levels; validation & production)
+          Drive engineering activities according to safety standards (ISO26262 & SOTIF) during all project phases, e.g.
+            - pre-sales / quote 
+            - concept phase 
+            - product development at system level 
+                - hardware (HW) level 
+                - software (SW) level 
+                - verifivcation & validation (V&V) 
+            - production & decomission 
           | 
+          
           Guide Functional Safety engineering activities for multiple product development teams across a range of technologies
+          
           FuSa projects executed for ASIL A & B compliance across 4 global OEMs. New technologies for ASIL C & D being realized
+          
           Proven track record of competency to plan, conduct & document internal & external assessments for ISO26262 +ASPICE Lvl.3
           
           Establish Bi-directional traceability on FNGs configuration management tool i.e. Polarion ALM & ANSYS Medini Analyze
@@ -113,15 +122,24 @@ experiences:
             - Fault Tree Analysis (FTA),
       - role: Adjunct Physics Professor
         time: 2020 - 2023
-        company: Google, London
+        company: Oakland Community College, Michigan
         details: |
           Planned, organized, & delivered algebra & calculus-based physics instruction in didactic, laboratory & classroom settings. 
+          
           Instructed groups of students during laboratory sessions, using practical demonstrations when appropriate
+         
           Prepared & administered exams, performed assessments, graded papers & evaluated student progress on timely basis
+          
           Quickly and successfully transitioned to a “Remote Course due to COVID Emergency” methodology with novel approach based on
           student user experience. Retained highest retention rate across the department for 3 semesters 
-            - Bullet point
-            - Bullet point
+
+          Workforce & Continuing Education 
+            - Macomb Online Facilitation Training & Certification 
+                - Introduction to Canvas
+                - Grading Tools, Modules, & Files 
+            - Excellence in Teaching & Learning Workshop: Introduction to Inclusive Teaching 
+            - Leveraging Psychology to Create Compelling Learning Experiences: Attention and Memory
+
       - role: Product Engineer 
         time: 2015 - 2020
         company: FNG, Detroit
