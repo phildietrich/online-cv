@@ -90,7 +90,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: **Lead Functional Safety Engineer** 
+      - role: Lead Functional Safety Engineer
         time: 2020 - Present
         company: FNG, Detroit
         details: |
@@ -100,10 +100,9 @@ experiences:
           
           Drive engineering activities according to safety standards (ISO 26262 & SOTIF) during all project phases, from the Pre-sales / quote phase, through product development at the system, hardware and software levels, through testing and production launch. 
           
-
-          
           Establish Bi-directional traceability on FNGs configuration management tool i.e. Polarion ALM & ANSYS Medini Analyze. 
           Proven track record of competency to plan, conduct & document internal & external assessments for ISO26262 + ASPICE Lvl.3. Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports. 
+          
           Develop functional safety work products specific for System, HW & SW development, e.g.
             - hazard & risk assessment (HARA), 
             - dependent failure analyses (DFA), 
@@ -117,8 +116,7 @@ experiences:
         details: |
           Planned, organized, & delivered algebra & calculus-based physics instruction in didactic, laboratory & classroom settings. Instructed groups of students during laboratory sessions, using practical demonstrations when appropriate. Prepared & administered exams, performed assessments, graded papers & evaluated student progress on timely basis. 
           
-          Quickly & successfully transitioned to a “Remote Course due to COVID Emergency” methodology, implementing novel teaching solutions based on
-          student user experience. Retained highest retention rate across the department for 3 semesters in a row. 
+          Quickly & successfully transitioned to a “Remote Course due to COVID Emergency” methodology, implementing novel teaching solutions based on student user experience. Retained highest retention rate across the department for 3 semesters in a row. 
 
       - role: Product Engineer 
         time: 2015 - 2020
