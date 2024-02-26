@@ -195,14 +195,23 @@ certifications:
           credentialname: MOFT
           details: |
             MOFT is designed for faculty teaching an online or hybrid course. Successful completion of this course provides the certification to teach Virtual and Hybrid courses. 
-            Faculty completing this training can expect coursework to take approximately 15 hours. 
+            Faculty completing this training can expect coursework to take approximately 20 hours. 
             Outcomes 
              - Develop a faculty presence 
              - Develop strategies to manage the online classroom 
              - Explain the role of faculty in online courses at Macomb 
              - Define strategies to support student success 
+        - name: Managing People - Engaging Your Workforce
+          start: 2014
+          end: 2015
+          organization: Henley Business School
+          credentialid: 
+          credentialurl: #www.github.com
+          credentialname: 
+          details: |
+            Learn how to manage people and get them engaged. Understand strategies on how to get the best out of people. Describe what good management practice is, and how it could be developed sustainably through a process of continuing reflection. Identify tools and techniques to help deal more effectively with challenges that often occur when leading diverse teams.  
 
-        - name: Design for Six Sigma (DFSS) Project Leader Training - Course A & B
+        - name: Design for Six Sigma (DFSS) Project Leader Training - Week A & B
           start: 2014
           end:
           organization: ASI Consulting Group, LLC
@@ -210,8 +219,19 @@ certifications:
           credentialurl: #www.github.com
           credentialname: DFSS
           details: |
-            Under DFSS – Design For Six Sigma, the approach to quality management is a proactive one – problem solving BEFORE problems occur - ‘designing in’ quality into the product/process. 
-            The end result is that the product or process works right the first time. 
+            Under DFSS – Design For Six Sigma, the approach to quality management is a proactive one – problem solving BEFORE problems occur - ‘designing in’ quality into the product/process. The end result is that the product or process works right the first time.
+        
+        - name: Laboratory Safety Training - Hazard Communication & GHS Change
+          start: 2013
+          end:
+          organization: Marsh & McLennan Risk Consulting – Detroit, MI
+          credentialid: #107-212
+          credentialurl: #www.github.com
+          credentialname: DFSS
+          details: |
+            The goal of any laboratory safety program is to minimize the risk of injury to employees by ensuring that they have the training, information, support, & equipment needed to work safely in the laboratory. The guidelines & standards set forth by the regulatory agencies assist laboratories in ensuring that this goal is met. The Globally Harmonized System (GHS) is an international system that the United Nations created for the unified classification & labeling of chemicals. It was officially adopted in the U.S. on March 26, 2012 by the Occupational Safety & Health Administration (OSHA).
+
+            
 projects:
     title: Projects
     intro: >
