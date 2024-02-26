@@ -235,7 +235,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            #Understand the fundamentals of dynamics and learn how this can be used in the design of aerospace structures      
+                  
 
             
         - name: Advanced Geometric Dimensioning & Tolerancing (GD&T) Training
@@ -246,7 +246,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            Gain a full understanding of industry specific topics in the ASME Y14.5 standard. Learn how advanced datum controls are interpreted & applied in measurement. Understand how to read, interpret & work with engineering drawings. 
+            Gain a full understanding of industry specific topics in the ASME Y14.5 standard. Learn how advanced datum controls are interpreted & applied in measurement. Understand how to read, interpret & work with engineering drawings. #Understand the fundamentals of dynamics and learn how this can be used in the design of aerospace structures
 
    
         - name: Managing People - Engaging Your Workforce
@@ -257,7 +257,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            Learn how to manage people & get them engaged. Understand strategies on how to get the best out of people. Describe what good management practice is & how it could be developed sustainably through a process of continuous reflection. Identify tools & techniques to help deal more effectively with challenges that often occur when leading a diverse team.  
+            Learn how to manage people & get them engaged. Understand strategies on how to get the best out of people. Learn good management practices & how they can be developed sustainably through a process of continuous reflection. Identify tools & techniques to help deal more effectively with challenges in leading teams.  
 
 
         - name: Design for Six Sigma (DFSS) Project Leader Training - Weeks A & B
