@@ -235,7 +235,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            Understand the fundamentals of dynamics and learn how this can be used in the design of aerospace structures      
+            #Understand the fundamentals of dynamics and learn how this can be used in the design of aerospace structures      
 
             
         - name: Advanced Geometric Dimensioning & Tolerancing (GD&T) Training
