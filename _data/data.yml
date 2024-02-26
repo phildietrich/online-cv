@@ -97,14 +97,10 @@ experiences:
           Guide Functional Safety engineering activities for multiple product development teams across a range of technologies
           Drive engineering activities according to safety standards (ISO 26262 & SOTIF) during all project phases, e.g. Pre-sales / quote phase, Concept phase, product development at System level, product development at Hardware (HW) level, product development at Software (SW) level, Verification & Validation (V&V), Production & Decomission.  
           
-          FuSa projects executed for ASIL A & B compliance across 4 global OEMs. New technologies for ASIL C & D being realized. 
+          FuSa projects executed for ASIL A & B compliance across 4 global OEMs. New technologies for ASIL C & D being realized. Manage Functional Safety teams on new ASIL D fail-operational safety properties & sensor integration projects. 
           
           Establish Bi-directional traceability on FNGs configuration management tool i.e. Polarion ALM & ANSYS Medini Analyze. 
-          
-          Proven track record of competency to plan, conduct & document internal & external assessments for ISO26262 + ASPICE Lvl.3. 
-          
-          Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports. 
-
+          Proven track record of competency to plan, conduct & document internal & external assessments for ISO26262 + ASPICE Lvl.3. Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports. 
           Develop functional safety work products specific for System, HW & SW development, e.g.
             - hazard & risk assessment (HARA), 
             - dependent failure analyses (DFA), 
@@ -116,59 +112,40 @@ experiences:
         time: 2020 - 2023
         company: Oakland Community College, Michigan
         details: |
-          Planned, organized, & delivered algebra & calculus-based physics instruction in didactic, laboratory & classroom settings. 
+          Planned, organized, & delivered algebra & calculus-based physics instruction in didactic, laboratory & classroom settings. Instructed groups of students during laboratory sessions, using practical demonstrations when appropriate. Prepared & administered exams, performed assessments, graded papers & evaluated student progress on timely basis. 
           
-          Instructed groups of students during laboratory sessions, using practical demonstrations when appropriate
-         
-          Prepared & administered exams, performed assessments, graded papers & evaluated student progress on timely basis
-          
-          Quickly and successfully transitioned to a “Remote Course due to COVID Emergency” methodology with novel approach based on
-          student user experience. Retained highest retention rate across the department for 3 semesters 
+          Quickly & successfully transitioned to a “Remote Course due to COVID Emergency” methodology, implementing novel teaching solutions based on
+          student user experience. Retained highest retention rate across the department for 3 semesters in a row. 
 
       - role: Product Engineer 
         time: 2015 - 2020
         company: FNG, Detroit
         details: |
-          Mechanical Design Engineer and Project Lead over all engineering functions related to new model headlight programs
-          
-          Innovate & design 3D CAD models, 2D component drawings, maintain & develop BOMs & manage multi-million dollar tooling budgets for all headlamp components including: 
+          Mechanical Design Engineer and Project Lead over all engineering functions related to new model headlight programs. 
+          Innovate & design 3D CAD models, 2D component drawings, maintain & develop BOMs & manage multi-million dollar tooling budgets for all headlamp components, including: 
             - Adaptive Driving Beam (ADB) Matrix LED projectors 
             - Advanced Front Lighting Systems w/ dynamic LIN stepper motors 
             - LIDAR sensor integration for autonomous (ADAS) vehicles (presented at CES 2020)
-        
-          Collaborated, engaged, and led team of five engineers (thermal, optical, E/E hardware, E/E software, & manufacturing throughout multi-year product lifecycle. 
+          Led team of five engineers (thermal, optical, E/E hardware, E/E software, & manufacturing throughout multi-year product lifecycle. Filed 1 new mechanical engineering design patent for Flex-N-Gate
           
-          Filed 1 new mechanical engineering design patent for Flex-N-Gate
-          
-          Successfully designed, validated, & launched the bestselling vehicle headlamps in the USA, w/ nearly 1 million Ford F-150 trucks sold in 2018 (~2M headlamps), resulting in more than $120 Million in annual revenue for the company 
+          Successfully designed, validated, & launched the bestselling vehicle headlamps in the USA, w/ nearly 1 million Ford F-150 trucks sold in 2018 (~2M headlamps), resulting in more than **$120 Million** in annual revenue for the company 
       - role: Sr. Validation Engineer 
         time: 2010 - 2015
         company: Automotive Lighting (Marelli), Detroit
         details: |
-          Performed Optical, Thermal, Mechanical & Electrical tests on all exterior lighting products & created test reports 
+          Performed Optical, Thermal, Mechanical, Legal & Electrical tests on all exterior lighting products. Created technical reports, formulated design concepts & proposals from test results, made presentations describing thefinite element models & CAE data to the design team to help resolve compliance issues & investigate cost saves. 
           
-          Created technical reports, formulated design concepts & proposals from test results, made presentations describing the
-          finite element models & CAE data to the design team to help resolve compliance issues & investigate cost saves
+          Investigated failure mode root causes using ECU diagnostics / 5WHY methodology. Reported findings to team in timely manner via 8D templates. Performed DOE / Critical X / fault injection tests to incorporate robust corrective actions.
           
-          Investigated failure mode root causes using ECU diagnostics / 5WHY methodology. Reported findings to team in timely
-          manner via 8D templates. 
-          
-          Performed DOE / Critical X / fault injection tests to incorporate robust corrective actions.
-          
-          Specialized in electrical component validation techniques & methods for compliance (ex. GMW3172 environmental testing)
-          
-          Championed the Quality Risk Checks (QRC) for each project & ECU module.
+          Specialized in electrical component validation techniques & methods for compliance (ex. GMW3172 environmental testing). Championed the Quality Risk Checks (QRC) at each project gate review.
           
       - role: Subject Matter Expert - Physics & Mathematics  
         time: 2010 
         company: Raytheon, Detroit
         details: |
-          Consulted for Six-Sigma Defense Company that was creating physics and mathematics web-based military training courses
+          Consulted for Six-Sigma Defense Company that was creating physics and mathematics web-based military training courses. Applied knowledge of these subjects throughout various milestones with software developers of diversified backgrounds.  
           
-          Applied knowledge of these subjects throughout various milestones with SW developers of diversified backgrounds 
-          
-          Approve training course module based on accuracy and internal quality standards. Provided feedback to team leaders for 
-          any corrections needed, including recommended “areas of improvement” during peer reviews & formal SME Reports 
+          Approved modules based on technical accuracy & internal quality standards. Provided feedback to team leaders for any corrections needed, including recommended 'areas of improvement' during peer reviews & formal SME Reports.  
          
 certifications:
       title: Certifications
@@ -181,17 +158,17 @@ certifications:
           credentialurl: www.quality-one.com/fmea/fmea-training/#learn 
           credentialname: FMEA
           details: |
-            This dynamic course teaches best practices from a broad range of industries.  Exercises combine instructor-led training and team activities to engage all attendees in a learn-do approach. Users of both Design and Process FMEA will gain a concise understanding and the skills required to make the FMEA Process an integral part of product and process design.  
+            This dynamic course teaches best practices from a broad range of industries. Exercises combine instructor-led training & team activities to engage all attendees in a learn-do approach. Users of both Design & Process FMEA will gain a concise understanding & the skills required to make the FMEA Process an integral part of product & process design.  
 
-        - name: Eight Disciplines of Problem Solving (8D) with Root Cause Analysis (RCA)
+        - name: Eight Disciplines of Problem Solving (8D) w/ Root Cause Analysis (RCA)
           start: 2022
           end: 
           organization: Quality-One International
-          credentialid: 101-481
+          credentialid: 250522
           credentialurl: www.quality-one.com/rca-8d-training-virtual-workshop-monthly-2024/ 
           credentialname: RCA 8D
           details: |
-            This deep-dive course teaches various techniques to perform a more thorough Root Cause Analysis. Exercises combine instructor-led training and team activities to engage all attendees in a learn-do approach. Users of 8D, 5 Why and Six Sigma will gain a concise understanding and the skills required to make Problem Solving Processes more effective and efficient.
+            This deep-dive course teaches various techniques to perform a more thorough Root Cause Analysis. Exercises combine instructor-led training & team activities to engage all attendees in a learn-do approach. Users of 8D, 5 Why & Six Sigma will gain a concise understanding & the skills required to make Problem Solving Processes more effective & efficient.
             
         - name: Functional Safety Certified Automotive Engineer (FSCAE)
           start: 2020
