@@ -193,7 +193,7 @@ certifications:
           start: 2020
           end: 2023
           organization: Macomb Community College
-          credentialid: 111-222
+          credentialid: #111-222
           credentialurl: #www.github.com
           credentialname: MOFT
           details: |
@@ -226,7 +226,7 @@ certifications:
             Learn the process of designing models with CATIA from conceptual sketching, through to solid modeling, assembly design, & drawing production. Gain an understanding of the parametric design philosophy of CATIA in this extensive hands-on course.
             
         - name: Understanding and Applying Structural Dynamics: Dynamics & Aerospace Structures
-          start: 2019
+          start: 2018
           end: 
           organization: ISAE 
           credentialid: 
@@ -243,16 +243,8 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            Learn how to dimension parts with accurate tolerances & datum components on drawings. 
-            
-          start: 2014
-          end: 2015
-          organization: Henley Business School
-          credentialid: 
-          credentialurl: #www.github.com
-          credentialname: 
-          details: |
-            Learn how to manage people and
+            Gain a full understanding of industry specific topics in the ASME Y14.5 standard. Learn how advanced datum controls are interpreted & applied in measurement. Understand how to read, interpret & work with engineering drawings. 
+   
         - name: Managing People - Engaging Your Workforce
           start: 2014
           end: 2015
@@ -261,7 +253,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            Learn how to manage people and get them engaged. Understand strategies on how to get the best out of people. Describe what good management practice is, and how it could be developed sustainably through a process of continuing reflection. Identify tools and techniques to help deal more effectively with challenges that often occur when leading diverse teams.  
+            Learn how to manage people & get them engaged. Understand strategies on how to get the best out of people. Describe what good management practice is & how it could be developed sustainably through a process of continuous reflection. Identify tools & techniques to help deal more effectively with challenges that often occur when leading a diverse team.  
 
         - name: Design for Six Sigma (DFSS) Project Leader Training - Weeks A & B
           start: 2014
@@ -271,7 +263,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: DFSS
           details: |
-            Under DFSS – Design For Six Sigma, the approach to quality management is a proactive one – problem solving BEFORE problems occur - ‘designing in’ quality into the product/process. The end result is that the product or process works right the first time.
+            Under Design For Six Sigma (DFSS) the approach to quality management is a proactive one – problem solving BEFORE problems occur - ‘designing in’ quality into the product/process. The end result is that the product or process works right the first time.
         
         - name: Laboratory Safety Training - Hazard Communication & GHS Change
           start: 2013
