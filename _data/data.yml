@@ -94,24 +94,16 @@ experiences:
         time: 2020 - Present
         company: FNG, Detroit
         details: |
-          Drive engineering activities according to safety standards (ISO 26262 & SOTIF) during all project phases, e.g.
-            - Pre-sales / quote phase 
-            - Concept phase 
-            - product development at System level 
-            - product development at Hardware (HW) level 
-            - product development at Software (SW) level 
-            - Verification & Validation (V&V) 
-            - Production & Decomission 
-          
           Guide Functional Safety engineering activities for multiple product development teams across a range of technologies
+          Drive engineering activities according to safety standards (ISO 26262 & SOTIF) during all project phases, e.g. Pre-sales / quote phase, Concept phase, product development at System level, product development at Hardware (HW) level, product development at Software (SW) level, Verification & Validation (V&V), Production & Decomission.  
           
-          FuSa projects executed for ASIL A & B compliance across 4 global OEMs. New technologies for ASIL C & D being realized
+          FuSa projects executed for ASIL A & B compliance across 4 global OEMs. New technologies for ASIL C & D being realized. 
           
-          Proven track record of competency to plan, conduct & document internal & external assessments for ISO26262 +ASPICE Lvl.3
+          Establish Bi-directional traceability on FNGs configuration management tool i.e. Polarion ALM & ANSYS Medini Analyze. 
           
-          Establish Bi-directional traceability on FNGs configuration management tool i.e. Polarion ALM & ANSYS Medini Analyze
+          Proven track record of competency to plan, conduct & document internal & external assessments for ISO26262 + ASPICE Lvl.3. 
           
-          Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports
+          Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports. 
 
           Develop functional safety work products specific for System, HW & SW development, e.g.
             - hazard & risk assessment (HARA), 
@@ -219,7 +211,6 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
-
         - name: Design for Six Sigma (DFSS) Project Leader Training: Course A & Course B
           start: 2014
           end:
