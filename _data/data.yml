@@ -17,7 +17,7 @@ sidebar:
     phone: 248 660 0086
     timezone: America/ Eastern Time (EST) 
     citizenship:
-    website: https://phildietrich.github.io #do not add http://
+    website: www.phildietrich.github.io #do not add http://
     #linkedin: x
     #xing: x 
     github: phildietrich
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://phildietrich.github.io/online-cv/print #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -219,6 +219,15 @@ certifications:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
+        - name: Design for Six Sigma (DFSS) Project Leader Training: Course A & Course B
+          start: 2014
+          end:
+          organization: ASI Consulting Group, LLC
+          credentialid: 107-212
+          credentialurl: #www.github.com
+          credentialname: DFSS
+          details: |
+            Design for Six Sigma training course & certification. Chrysler Technical Center, Auburn Hills, MI
 projects:
     title: Projects
     intro: >
