@@ -173,28 +173,25 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Failure Mode & Effects Analysis (FMEA) + Problem Solving (8D) with Root Cause Analysis (RCA)
+        - name: Failure Mode & Effects Analysis (FMEA) 
           start: 2022
           end: 
           organization: Quality-One International
           credentialid: 230522
-          credentialurl: #www.tuev-nord.de/fileadmin/Content/TUEV_NORD_DE/funktionale_sicherheit/personenzertifikate/ISO_26262/FSCAE_Dietrich_A031_01902_21.pdf
+          credentialurl: www.quality-one.com/fmea/fmea-training/#learn 
           credentialname: FMEA
           details: |
-            This dynamic course teaches best practices from a broad range of industries.  Exercises combine instructor-led training and team activities to engage all attendees in a learn-do approach.  
-            Users of both Design and Process FMEA will gain a concise understanding and the skills required to make the FMEA Process an integral part of product and process design.  
+            This dynamic course teaches best practices from a broad range of industries.  Exercises combine instructor-led training and team activities to engage all attendees in a learn-do approach. Users of both Design and Process FMEA will gain a concise understanding and the skills required to make the FMEA Process an integral part of product and process design.  
 
         - name: Eight Disciplines of Problem Solving (8D) with Root Cause Analysis (RCA)
           start: 2022
           end: 
           organization: Quality-One International
           credentialid: 101-481
-          credentialurl: #www.tuev-nord.de/fileadmin/Content/TUEV_NORD_DE/funktionale_sicherheit/personenzertifikate/ISO_26262/FSCAE_Dietrich_A031_01902_21.pdf
+          credentialurl: www.quality-one.com/rca-8d-training-virtual-workshop-monthly-2024/ 
           credentialname: RCA 8D
           details: |
-            This deep-dive course teaches various techniques to perform a more thorough Root Cause Analysis.  
-            Exercises combine instructor-led training and team activities to engage all attendees in a learn-do approach.  
-            Users of 8D, 5 Why and Six Sigma will gain a concise understanding and the skills required to make Problem Solving Processes more effective and efficient.
+            This deep-dive course teaches various techniques to perform a more thorough Root Cause Analysis. Exercises combine instructor-led training and team activities to engage all attendees in a learn-do approach. Users of 8D, 5 Why and Six Sigma will gain a concise understanding and the skills required to make Problem Solving Processes more effective and efficient.
             
         - name: Functional Safety Certified Automotive Engineer (FSCAE)
           start: 2020
