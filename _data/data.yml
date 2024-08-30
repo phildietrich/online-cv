@@ -9,11 +9,11 @@ sidebar:
 
     # Profile information
     name: Phil Dietrich
-    tagline: Functional Safety Engineer
+    tagline: Functional Safety Professional 
     avatar: Picture2.jpg #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: phild22123@gmail.com
+    email: corpusle@proton.me
     phone: 248 660 0086
     timezone: America/ Eastern Time (EST) 
     citizenship:
@@ -57,16 +57,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Functional Safety Certified Automotive Engineer (FSCAE) w/ 13 years of experience in the design, 
-      validation & manufacture of safety critical automotive exterior lighting systems, their LED modules 
-      & Electronic Control Units (ECU). Extensive knowledge of PCBA level tests & model-based development 
-      methods for safety/security. Focused to deliver timely, robust solutions for E/E product compliance
+      Certified Functional Safety professional (ISO 26262 Level 2) with over 14 years of expertise in automotive electronics, 
+      specializing in the development and implementation of safety-critical systems. 
+      Proficient in PCBA testing and model-based development, committed to ensuring timely and resilient E/E product compliance.
+    #  Functional Safety Certified Automotive Engineer (FSCAE) w/ 13 years of experience in the design, 
+    #  validation & manufacture of safety critical automotive exterior lighting systems, their LED modules 
+     # & Electronic Control Units (ECU). Extensive knowledge of PCBA level tests & model-based development 
+    #  methods for safety/security. Focused to deliver timely, robust solutions for E/E product compliance
 education:
     title: Education
     info:
       - degree: M.S. Physics 
         university: Wayne State University
-        time: 2011 - 2018
+        #time: 2011 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
