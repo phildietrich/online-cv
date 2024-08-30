@@ -121,17 +121,17 @@ experiences:
           
           Quickly & successfully transitioned to a “Remote Course due to COVID Emergency” methodology, implementing novel teaching solutions based on student user experience. Retained highest retention rate across the department for 3 semesters in a row. 
 
-      - role: Product Engineer 
+      - role: Systems Design Lead (Product Engineering)
         time: 2015 - 2020
         company: FNG, Detroit
         details: |
-          Mechanical Design Engineer and Project Lead over all engineering functions related to new model headlight programs. 
+          Mechanical Design Engineer and Project Lead over all technical aspects of model headlight programs. 
           Innovate & design 3D CAD models, 2D component drawings, maintain & develop BOMs & manage multi-million dollar tooling budgets for all headlamp components, including: 
             - Adaptive Driving Beam (ADB) Matrix LED projectors 
             - Advanced Front Lighting Systems w/ dynamic LIN stepper motors 
             - LIDAR sensor integration for autonomous (ADAS) vehicles (presented at CES 2020)
           
-          Led team of five engineers (thermal, optical, E/E hardware, E/E software, & manufacturing throughout multi-year product lifecycle. Filed 1 new mechanical engineering design patent for Flex-N-Gate
+          Led team of five engineers (thermal, optical, E/E hardware, E/E software, & manufacturing throughout multi-year product lifecycle. Filed 1 new mechanical engineering design patent for FNG
           
           Successfully designed, validated, & launched the bestselling vehicle headlamps in the USA, w/ nearly 1 million Ford F-150 trucks sold in 2018 (~2M headlamps), resulting in more than **$120 Million** in annual revenue for the company 
       - role: Sr. Validation Engineer 
@@ -163,7 +163,7 @@ certifications:
           credentialurl: www.quality-one.com/fmea/fmea-training/#learn 
           credentialname: FMEA
           details: |
-            This dynamic course teaches best practices from a broad range of industries. Exercises combine instructor-led training & team activities to engage all attendees in a learn-do approach. Users of both Design & Process FMEA will gain a concise understanding & the skills required to make the FMEA Process an integral part of product & process design.  
+#            This dynamic course teaches best practices from a broad range of industries. Exercises combine instructor-led training & team activities to engage all                    # attendees in a learn-do approach. Users of both Design & Process FMEA will gain a concise understanding & the skills required to make the FMEA Process an               #      integral part of product & process design.  
 
 
         - name: Eight Disciplines of Problem Solving (8D) w/ Root Cause Analysis (RCA)
@@ -174,7 +174,7 @@ certifications:
           credentialurl: www.quality-one.com/rca-8d-training-virtual-workshop-monthly-2024/ 
           credentialname: RCA 8D
           details: |
-            This deep-dive course teaches various techniques to perform a more thorough Root Cause Analysis. Exercises combine instructor-led training & team activities to engage all attendees in a learn-do approach. Users of 8D, 5 Why & Six Sigma will gain a concise understanding & the skills required to make Problem Solving Processes more effective & efficient.
+  #          This deep-dive course teaches various techniques to perform a more thorough Root Cause Analysis. Exercises combine instructor-led training & team activities to    #         engage all attendees in a learn-do approach. Users of 8D, 5 Why & Six Sigma will gain a concise understanding & the skills required to make Problem Solving         #        Processes more effective & efficient.
 
             
         - name: Functional Safety Certified Automotive Engineer (FSCAE)
@@ -332,14 +332,14 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+ #     You can list your publications in this section. Lorem ipsum dolor sit
+ #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+ #     bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Faster Meridional Flow - a simple surface flux transport model to investigate peculiarities of solar cyle 23
+        link: "https://lasp.colorado.edu/media/projects/SORCE/documents/sns/2009/sns_jul_2009.pdf"
+        authors: Philly D
+        conference: National Science Foundation Research Experience for Undergraduates (REU) Program, 
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
