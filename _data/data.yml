@@ -69,7 +69,7 @@ education:
     info:
       - degree: M.S. Physics 
         university: Wayne State University
-        #time: 2011 - 2018
+        time: #2011 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,7 +80,7 @@ education:
             - Bullet point
       - degree: B.A. in Physics & Applied Mathematics
         university: Kalamazoo College 
-       # time: 2007 - 2011
+        time: #2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -95,7 +95,7 @@ experiences:
     info:
       - role: Senior Principal Engineer, Functional Safety
         time: 2024 - present
-        #company: FNG, Detroit
+        company: #FNG, Detroit
         details: |
         
       - role: Lead Functional Safety Engineer
@@ -120,15 +120,15 @@ experiences:
             
       - role: Adjunct Physics Professor
         time: 2020 - present
-        company: Oakland Community College, Michigan
+        company: #Oakland Community College, Michigan
         details: |
           Planned, organized, & delivered algebra & calculus-based physics instruction in didactic, laboratory & classroom settings. Instructed groups of students during laboratory sessions, using practical demonstrations when appropriate. Prepared & administered exams, performed assessments, graded papers & evaluated student progress on timely basis. 
           
-          Quickly & successfully transitioned to a “Remote Course due to COVID Emergency” methodology, implementing novel teaching solutions based on student user experience. Retained highest retention rate across the department for 3 semesters in a row. 
+       #   Quickly & successfully transitioned to a “Remote Course due to COVID Emergency” methodology, implementing novel teaching solutions based on student user experience. Retained highest retention rate across the department for 3 semesters in a row. 
 
       - role: Systems Design Lead (Product Engineering)
         time: 2015 - 2020
-    #    company: FNG, Detroit
+        company: #FNG, Detroit
         details: |
   #        Mechanical Design Engineer and Project Lead over all technical aspects of model headlight programs. 
    #       Innovate & design 3D CAD models, 2D component drawings, maintain & develop BOMs & manage multi-million dollar tooling budgets for all headlamp components, including: 
