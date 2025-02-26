@@ -102,7 +102,7 @@ experiences:
         time: 2020 - 2024
         company: FNG #, Detroit
         details: |
-          Guide ISO 26262 Functional Safety engineering activities for multiple product development teams across a range of technologies
+    #      Guide ISO 26262 Functional Safety engineering activities for multiple product development teams across a range of technologies
           
     #      FuSa projects executed for ASIL A & B compliance across 4 global OEMs. New technologies for ASIL C & D being realized. Manage Functional Safety teams on new ASIL D fail-operational safety properties & sensor integration projects. 
     #      
@@ -141,7 +141,7 @@ experiences:
  #         Successfully designed, validated, & launched the bestselling vehicle headlamps in the USA, w/ nearly 1 million Ford F-150 trucks sold in 2018 (~2M headlamps), resulting in more than **$120 Million** in annual revenue for the company 
       - role: Sr. Validation Engineer 
         time: 2010 - 2015
-        company: Automotive Lighting (Marelli)#, Detroit
+        company: Automotive Lighting (Marelli) #, Detroit
         details: |
        #   Performed Optical, Thermal, Mechanical, Legal & Electrical tests on all exterior lighting products. Created technical reports, formulated design concepts & proposals from test results, made presentations describing the finite element models & CAE data to the design team to help resolve compliance issues & investigate cost saves. 
           
@@ -151,7 +151,7 @@ experiences:
           
       - role: Subject Matter Expert # - Physics & Mathematics  
         time: 2010 
-        company: Raytheon#, Detroit
+        company: Raytheon #, Detroit
         details: |
      #     Consulted for Six-Sigma Defense Company that was creating physics and mathematics web-based military training courses. Applied knowledge of these subjects throughout various milestones with software developers of diversified backgrounds.  
           
@@ -203,17 +203,17 @@ certifications:
           credentialurl: www.tuev-nord.de/fileadmin/Content/TUEV_NORD_DE/funktionale_sicherheit/personenzertifikate/ISO_26262/FSCAE_Dietrich_A031_01902_21.pdf
           credentialname: FSCAE
           details: |
-            TUV Certified Functional Safety Engineer for Automotive ISO 26262. 
-             - Module 1 - Management of ISO 26262
+         #   TUV Certified Functional Safety Engineer for Automotive ISO 26262. 
+         #    - Module 1 - Management of ISO 26262
              
-             - Module 2 - Hardware Level Implementation of ISO 26262 
+         #    - Module 2 - Hardware Level Implementation of ISO 26262 
              
-             - Module 3 - Software Level Implementation of ISO 26262
+         #    - Module 3 - Software Level Implementation of ISO 26262
 
              
         - name: Macomb Online Facilitation Training & Certification 
           start: 2020
-          end: 2023
+          end: #2023
           organization: Macomb Community College
           credentialid: #111-222
           credentialurl: #www.github.com
