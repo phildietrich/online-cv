@@ -80,7 +80,7 @@ education:
             - Bullet point
       - degree: B.A. in Physics & Applied Mathematics
         university: Kalamazoo College 
-        time: 2007 - 2011
+       # time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -93,25 +93,30 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Senior Principal Engineer, Functional Safety
+        time: 2024 - present
+        #company: FNG, Detroit
+        details: |
+        
       - role: Lead Functional Safety Engineer
-        time: 2020 - Present
+        time: 2020 - 2024
         company: FNG, Detroit
         details: |
           Guide ISO 26262 Functional Safety engineering activities for multiple product development teams across a range of technologies
           
-          FuSa projects executed for ASIL A & B compliance across 4 global OEMs. New technologies for ASIL C & D being realized. Manage Functional Safety teams on new ASIL D fail-operational safety properties & sensor integration projects. 
+    #      FuSa projects executed for ASIL A & B compliance across 4 global OEMs. New technologies for ASIL C & D being realized. Manage Functional Safety teams on new ASIL D fail-operational safety properties & sensor integration projects. 
+    #      
+    #      Drive engineering activities according to safety standards (ISO 26262 & SOTIF) during all project phases, from the Pre-sales / quote phase, through product development at the system, hardware and software levels, through testing and production launch. 
           
-          Drive engineering activities according to safety standards (ISO 26262 & SOTIF) during all project phases, from the Pre-sales / quote phase, through product development at the system, hardware and software levels, through testing and production launch. 
+     #     Establish Bi-directional traceability on FNGs configuration management tool i.e. Polarion ALM & ANSYS Medini Analyze. 
+      #    Proven track record of competency to plan, conduct & document internal & external assessments for ISO26262 + ASPICE Lvl.3. Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports. 
           
-          Establish Bi-directional traceability on FNGs configuration management tool i.e. Polarion ALM & ANSYS Medini Analyze. 
-          Proven track record of competency to plan, conduct & document internal & external assessments for ISO26262 + ASPICE Lvl.3. Conduct & coordinate verification reviews & confirmation measures based on ASIL level. Generate assessment reports. 
-          
-          Develop functional safety work products specific for System, HW & SW development, e.g.
-            - hazard & risk assessment (HARA), 
-            - dependent failure analyses (DFA), 
-            - HW safety metrics (ex. FMEDA),
-            - technical safety concept (TSC), 
-            - Fault Tree Analysis (FTA)
+      #    Develop functional safety work products specific for System, HW & SW development, e.g.
+      #      - hazard & risk assessment (HARA), 
+      #      - dependent failure analyses (DFA), 
+      #      - HW safety metrics (ex. FMEDA),
+      #      - technical safety concept (TSC), 
+      #      - Fault Tree Analysis (FTA)
             
       - role: Adjunct Physics Professor
         time: 2020 - present
@@ -155,6 +160,15 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Functional Safety Professional  
+          start: 2024
+          end: 
+          organization: TUV SUD
+          credentialid: #230522
+          credentialurl: #www.quality-one.com/fmea/fmea-training/#learn 
+          credentialname: #FMEA
+          details: |
+          
         - name: Failure Mode & Effects Analysis (FMEA) 
           start: 2022
           end: 
@@ -163,7 +177,9 @@ certifications:
           credentialurl: www.quality-one.com/fmea/fmea-training/#learn 
           credentialname: FMEA
           details: |
-#            This dynamic course teaches best practices from a broad range of industries. Exercises combine instructor-led training & team activities to engage all                    # attendees in a learn-do approach. Users of both Design & Process FMEA will gain a concise understanding & the skills required to make the FMEA Process an               #      integral part of product & process design.  
+#            This dynamic course teaches best practices from a broad range of industries. Exercises combine instructor-led training & team activities to engage all                    
+# attendees in a learn-do approach. Users of both Design & Process FMEA will gain a concise understanding & the skills required to make the FMEA Process an               
+#      integral part of product & process design.  
 
 
         - name: Eight Disciplines of Problem Solving (8D) w/ Root Cause Analysis (RCA)
@@ -174,7 +190,9 @@ certifications:
           credentialurl: www.quality-one.com/rca-8d-training-virtual-workshop-monthly-2024/ 
           credentialname: RCA 8D
           details: |
-  #          This deep-dive course teaches various techniques to perform a more thorough Root Cause Analysis. Exercises combine instructor-led training & team activities to    #         engage all attendees in a learn-do approach. Users of 8D, 5 Why & Six Sigma will gain a concise understanding & the skills required to make Problem Solving         #        Processes more effective & efficient.
+  #          This deep-dive course teaches various techniques to perform a more thorough Root Cause Analysis. Exercises combine instructor-led training & team activities to    
+  #         engage all attendees in a learn-do approach. Users of 8D, 5 Why & Six Sigma will gain a concise understanding & the skills required to make Problem Solving         
+  #        Processes more effective & efficient.
 
             
         - name: Functional Safety Certified Automotive Engineer (FSCAE)
@@ -201,14 +219,14 @@ certifications:
           credentialurl: #www.github.com
           credentialname: MOFT
           details: |
-            MOFT is required for faculty to teach an online or hybrid course. Successful completion of this course provides the certification to teach Virtual and Hybrid courses. 
-            Faculty completing this training can expect coursework to take approximately 20 hours over the two week period. Outcomes 
-             - Develop strategies to manage the online classroom 
-             - Explain the role of faculty in online courses at Macomb 
-             - Define strategies to support student success 
+    #        MOFT is required for faculty to teach an online or hybrid course. Successful completion of this course provides the certification to teach Virtual and Hybrid courses. 
+    #        Faculty completing this training can expect coursework to take approximately 20 hours over the two week period. Outcomes 
+     #        - Develop strategies to manage the online classroom 
+      #       - Explain the role of faculty in online courses at Macomb 
+     #        - Define strategies to support student success 
 
 
-        - name: LiDAR & Sensor Integration for ADAS Technology Training (101 & 201)
+        - name: LiDAR & Sensor Integration for ADAS Technology #Training (101 & 201)
           start: 2019
           end: 
           organization: LeddarTech
@@ -216,7 +234,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            Deep-dive two week workshop, onsite at LiDAR supplier in Québec, Qc, Canada. 
+    #        Deep-dive two week workshop, onsite at LiDAR supplier in Québec, Qc, Canada. 
 
 
         - name: Introduction to 3D Modeling - CATIA V5 
@@ -227,7 +245,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            Learn the process of designing models with CATIA from conceptual sketching, through to solid modeling, assembly design, & drawing production. Gain an understanding of the parametric design philosophy of CATIA in this extensive hands-on course.
+     #       Learn the process of designing models with CATIA from conceptual sketching, through to solid modeling, assembly design, & drawing production. Gain an understanding of the parametric design philosophy of CATIA in this extensive hands-on course.
 
             
         - name: Understanding & Applying Structural Dynamics - Aerospace Structures
@@ -249,7 +267,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            Gain a full understanding of industry specific topics in the ASME Y14.5 standard. Learn how advanced datum controls are interpreted & applied in measurement. Understand how to read, interpret & work with engineering drawings. #Understand the fundamentals of dynamics and learn how this can be used in the design of aerospace structures
+    #        Gain a full understanding of industry specific topics in the ASME Y14.5 standard. Learn how advanced datum controls are interpreted & applied in measurement. Understand how to read, interpret & work with engineering drawings. #Understand the fundamentals of dynamics and learn how this can be used in the design of aerospace structures
 
    
         - name: Managing People - Engaging Your Workforce
@@ -260,7 +278,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: 
           details: |
-            Learn how to manage people & get them engaged. Understand strategies on how to get the best out of people. Learn good management practices & how they can be developed sustainably through a process of continuous reflection. Identify tools & techniques to help deal more effectively with challenges in leading teams.  
+         #   Learn how to manage people & get them engaged. Understand strategies on how to get the best out of people. Learn good management practices & how they can be developed sustainably through a process of continuous reflection. Identify tools & techniques to help deal more effectively with challenges in leading teams.  
 
 
         - name: Design for Six Sigma (DFSS) Project Leader Training - Weeks A & B
@@ -271,7 +289,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: DFSS
           details: |
-            Under Design For Six Sigma (DFSS) the approach to quality management is a proactive one – problem solving BEFORE problems occur - ‘designing in’ quality into the product/process. The end result is that the product or process works right the first time.
+      #      Under Design For Six Sigma (DFSS) the approach to quality management is a proactive one – problem solving BEFORE problems occur - ‘designing in’ quality into the product/process. The end result is that the product or process works right the first time.
 
         
         - name: Laboratory Safety Training - Hazard Communication & GHS Change
@@ -282,7 +300,7 @@ certifications:
           credentialurl: #www.github.com
           credentialname: #DFSS
           details: |
-            The Globally Harmonized System (GHS) is an international system that the United Nations created for the unified classification & labeling of chemicals. It was officially adopted in the U.S. on March 26, 2012 by the Occupational Safety & Health Administration (OSHA).
+     #       The Globally Harmonized System (GHS) is an international system that the United Nations created for the unified classification & labeling of chemicals. It was officially adopted in the U.S. on March 26, 2012 by the Occupational Safety & Health Administration (OSHA).
 
             
 projects:
