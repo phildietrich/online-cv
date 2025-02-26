@@ -128,26 +128,26 @@ experiences:
 
       - role: Systems Design Lead (Product Engineering)
         time: 2015 - 2020
-        company: FNG, Detroit
+    #    company: FNG, Detroit
         details: |
-          Mechanical Design Engineer and Project Lead over all technical aspects of model headlight programs. 
-          Innovate & design 3D CAD models, 2D component drawings, maintain & develop BOMs & manage multi-million dollar tooling budgets for all headlamp components, including: 
-            - Adaptive Driving Beam (ADB) Matrix LED projectors 
-            - Advanced Front Lighting Systems w/ dynamic LIN stepper motors 
-            - LIDAR sensor integration for autonomous (ADAS) vehicles (presented at CES 2020)
+  #        Mechanical Design Engineer and Project Lead over all technical aspects of model headlight programs. 
+   #       Innovate & design 3D CAD models, 2D component drawings, maintain & develop BOMs & manage multi-million dollar tooling budgets for all headlamp components, including: 
+   #         - Adaptive Driving Beam (ADB) Matrix LED projectors 
+  #          - Advanced Front Lighting Systems w/ dynamic LIN stepper motors 
+   #         - LIDAR sensor integration for autonomous (ADAS) vehicles (presented at CES 2020)
           
-          Led team of five engineers (thermal, optical, E/E hardware, E/E software, & manufacturing throughout multi-year product lifecycle. Filed 1 new mechanical engineering design patent for FNG
+   #       Led team of five engineers (thermal, optical, E/E hardware, E/E software, & manufacturing throughout multi-year product lifecycle. Filed 1 new mechanical engineering design patent for FNG
           
-          Successfully designed, validated, & launched the bestselling vehicle headlamps in the USA, w/ nearly 1 million Ford F-150 trucks sold in 2018 (~2M headlamps), resulting in more than **$120 Million** in annual revenue for the company 
+ #         Successfully designed, validated, & launched the bestselling vehicle headlamps in the USA, w/ nearly 1 million Ford F-150 trucks sold in 2018 (~2M headlamps), resulting in more than **$120 Million** in annual revenue for the company 
       - role: Sr. Validation Engineer 
         time: 2010 - 2015
-        company: Automotive Lighting (Marelli), Detroit
+        company:# Automotive Lighting (Marelli), Detroit
         details: |
-          Performed Optical, Thermal, Mechanical, Legal & Electrical tests on all exterior lighting products. Created technical reports, formulated design concepts & proposals from test results, made presentations describing the finite element models & CAE data to the design team to help resolve compliance issues & investigate cost saves. 
+       #   Performed Optical, Thermal, Mechanical, Legal & Electrical tests on all exterior lighting products. Created technical reports, formulated design concepts & proposals from test results, made presentations describing the finite element models & CAE data to the design team to help resolve compliance issues & investigate cost saves. 
           
-          Investigated failure mode root causes using ECU diagnostics / 5WHY methodology. Reported findings to team in timely manner via 8D templates. Performed DOE / Critical X / fault injection tests to incorporate robust corrective actions.
+       #   Investigated failure mode root causes using ECU diagnostics / 5WHY methodology. Reported findings to team in timely manner via 8D templates. Performed DOE / Critical X / fault injection tests to incorporate robust corrective actions.
           
-          Specialized in electrical component validation techniques & methods for compliance (ex. GMW3172 environmental testing). Championed the Quality Risk Checks (QRC) at each project gate review.
+       #   Specialized in electrical component validation techniques & methods for compliance (ex. GMW3172 environmental testing). Championed the Quality Risk Checks (QRC) at each project gate review.
           
       - role: Subject Matter Expert - Physics & Mathematics  
         time: 2010 
@@ -155,7 +155,7 @@ experiences:
         details: |
           Consulted for Six-Sigma Defense Company that was creating physics and mathematics web-based military training courses. Applied knowledge of these subjects throughout various milestones with software developers of diversified backgrounds.  
           
-          Approved modules based on technical accuracy & internal quality standards. Provided feedback to team leaders for any corrections needed, including recommended 'areas of improvement' during peer reviews & formal SME Reports.  
+     #     Approved modules based on technical accuracy & internal quality standards. Provided feedback to team leaders for any corrections needed, including recommended 'areas of improvement' during peer reviews & formal SME Reports.  
          
 certifications:
       title: Certifications
@@ -380,16 +380,16 @@ skills:
         level: 74%
 
       - name: Angular
-        level: 98%
+        level: 58%
 
       - name: HTML5 & CSS
         level: 90%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 55%
 
       - name: Sketch & Photoshop
-        level: 80%
+        level: 87%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
