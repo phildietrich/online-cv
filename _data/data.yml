@@ -120,9 +120,9 @@ experiences:
             
       - role: Adjunct Physics Professor
         time: 2020 - present
-        company: Oakland Community College, Michigan
+        company: #Oakland Community College, Michigan
         details: |
-          Planned, organized, & delivered algebra & calculus-based physics instruction in didactic, laboratory & classroom settings. Instructed groups of students during laboratory sessions, using practical demonstrations when appropriate. Prepared & administered exams, performed assessments, graded papers & evaluated student progress on timely basis. 
+      #    Planned, organized, & delivered algebra & calculus-based physics instruction in didactic, laboratory & classroom settings. Instructed groups of students during laboratory sessions, using practical demonstrations when appropriate. Prepared & administered exams, performed assessments, graded papers & evaluated student progress on timely basis. 
           
        #   Quickly & successfully transitioned to a “Remote Course due to COVID Emergency” methodology, implementing novel teaching solutions based on student user experience. Retained highest retention rate across the department for 3 semesters in a row. 
 
